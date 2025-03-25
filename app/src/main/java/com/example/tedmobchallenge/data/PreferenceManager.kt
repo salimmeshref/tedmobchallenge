@@ -1,4 +1,4 @@
-package data
+package com.example.tedmobchallenge.data
 
 import android.content.Context
 import android.content.SharedPreferences

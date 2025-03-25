@@ -6,9 +6,9 @@ import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import com.example.tedmobchallenge.R
+import com.example.tedmobchallenge.data.PreferenceManager
 import com.example.tedmobchallenge.ui.home.HomeActivity
 import com.example.tedmobchallenge.ui.login.LoginActivity
-import data.PreferenceManager
 
 class SplashActivity : AppCompatActivity() {
 

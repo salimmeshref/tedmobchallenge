@@ -4,9 +4,9 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.tedmobchallenge.R
+import com.example.tedmobchallenge.data.PreferenceManager
 import com.example.tedmobchallenge.databinding.ActivityLoginBinding
 import com.example.tedmobchallenge.ui.home.HomeActivity
-import data.PreferenceManager
 
 class LoginActivity : AppCompatActivity() {
 
