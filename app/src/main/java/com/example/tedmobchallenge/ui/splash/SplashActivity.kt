@@ -18,6 +18,8 @@ class SplashActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash)
 
+        preferencesManager = PreferenceManager(this)
+
         Handler(Looper.getMainLooper()).postDelayed({
             nextScreen()
         },1500)
