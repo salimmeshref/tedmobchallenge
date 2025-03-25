@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">tedmobchallenge</string>
+    <string name="content_description">desc</string>
 </resources>
