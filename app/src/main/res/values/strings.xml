@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">tedmobchallenge</string>
     <string name="content_description">desc</string>
+    <string name="email">Email</string>
+    <string name="pasword">Password</string>
+    <string name="login">Login</string>
+    <string name="enter_credentials">Enter credentials to login</string>
+    <string name="required" />
+    <string name="login_successful">Login susscessful</string>
 </resources>
